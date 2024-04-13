@@ -7,7 +7,7 @@
 
 3. Read the `home_sales_revised.csv` data in the starter code into a Spark DataFrame.
 
-4. Create a temporary table called h`ome_sales`.
+4. Create a temporary table called `home_sales`.
 
 5. Answer the following questions using SparkSQL:
 
